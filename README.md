@@ -1,6 +1,7 @@
 These are my terminal settings for different clients.
+
 /h6 Prompt
-[Bash](PS1='\[\e[92m\]Ubuntu\[\e[0m\]\\$ ')
+[Bash](https://github.com/JB-BR/JB-s-Windows-Terminal/blob/main/.bashrc)
 [PowerShell Prompt](https://github.com/JB-BR/JB-s-Windows-Terminal/blob/main/Profile.ps1)
 
 /h6 Colors (I use the Nord theme)
